@@ -8,7 +8,9 @@ A minimal, atmospheric GRUB theme inspired by the game **OneShot**.
 
 # Credits
 Wallpaper art from **OneShot**
+
 Inspired From [Celeste Grub](https://github.com/suilven641/CelesteGRUB/?tab=readme-ov-file) 
+
 Font: **JetBrains Mono**.
 
 ## Installation
