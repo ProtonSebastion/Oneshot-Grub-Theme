@@ -6,10 +6,12 @@
 # OneShot GRUB Theme 💡
 A minimal, atmospheric GRUB theme inspired by the game **OneShot**.
 
-
-
-
 # Credits
-
+Wallpaper art from **OneShot**
 Inspired From [Celeste Grub](https://github.com/suilven641/CelesteGRUB/?tab=readme-ov-file) 
+Font: **JetBrains Mono**.
 
+## Installation
+1. Copy the `oneshot` folder to `/boot/grub/themes/`.
+2. Edit `/etc/default/grub` and set `GRUB_THEME="/boot/grub/themes/oneshot/theme.txt"`.
+3. Run `sudo grub-mkconfig -o /boot/grub/grub.cfg`.
